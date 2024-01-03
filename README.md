@@ -1,3 +1,6 @@
+# Deprecated - see https://github.com/fastly/vscode-fastly-vcl
+
+
 # Fastly for Visual Studio Code
 
 Work with Compute@Edge projects within Visual Studio Code.
